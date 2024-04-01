@@ -10,4 +10,4 @@ Temas de los ejercicios
 - Estadistica inferencial
 - A/B Testing
 - ETL I
-- gitETL II
+- ETL II
