@@ -5,9 +5,9 @@ Este repositorio contiene ejercicios de programación correspondientes al curso 
 
 Temas de los ejercicios
 
-Visualización
-Estadistica descriptiva
-Estadistica inferencial
-A/B Testing
-ETL I
-ETL II
+- Visualización
+- Estadistica descriptiva
+- Estadistica inferencial
+- A/B Testing
+- ETL I
+- gitETL II
