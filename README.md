@@ -5,9 +5,9 @@ Este repositorio contiene ejercicios de programación correspondientes al curso 
 
 Temas de los ejercicios
 
-numpy
-Introducción a los pandas
-Análisis de datos exploratorios (EDA)
-Unión de Datos e Introducción a Limpieza
-Agrupación de Datos y Método aplicar
-Gestión de nulos
+Visualización
+Estadistica descriptiva
+Estadistica inferencial
+A/B Testing
+ETL I
+ETL II
